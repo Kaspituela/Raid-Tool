@@ -1,0 +1,196 @@
+{
+  "players": [
+    {
+      "id": "player1",
+      "name": "Patchoulie",
+      "color": "blue",
+      "characters": [
+        { "name": "Patchôulie", "class": "Bard", "ilvl": 1770 },
+        { "name": "Süwako", "class": "Artist", "ilvl": 1750 },
+        { "name": "Utsüho", "class": "Valkyrie", "ilvl": 1750 },
+        { "name": "Einlazer", "class": "Paladin", "ilvl": 1750 },
+        { "name": "Ginzhen", "class": "Wardancer", "ilvl": 1740 },
+        { "name": "Shiröna", "class": "GuardianKnight", "ilvl": 1740 }
+      ]
+    },
+    {
+      "id": "player2",
+      "name": "Kaspita",
+      "color": "orange",
+      "characters": [
+        { "name": "Kaspitaniah", "class": "Deathblade", "ilvl": 1750 },
+        { "name": "Kaspitah", "class": "Arcanist", "ilvl": 1750 },
+        { "name": "Kaspiña", "class": "Summoner", "ilvl": 1750 },
+        { "name": "Kaspita", "class": "Deathblade", "ilvl": 1770 },
+        { "name": "Sheliak", "class": "Deathblade", "ilvl": 1750 },
+        { "name": "Kasputin", "class": "Deathblade", "ilvl": 1750 }
+      ]
+    },
+    {
+      "id": "player3",
+      "name": "Hana",
+      "color": "red",
+      "characters": [
+        { "name": "Kyocchirö", "class": "Striker", "ilvl": 1750 },
+        { "name": "Muicchirö", "class": "Striker", "ilvl": 1750 },
+        { "name": "Icchirö", "class": "Striker", "ilvl": 1750 },
+        { "name": "Devourër", "class": "Striker", "ilvl": 1770 },
+        { "name": "Dayeön", "class": "Valkyrie", "ilvl": 1730 }
+      ]
+    },
+    {
+      "id": "player4",
+      "name": "Facu",
+      "color": "green",
+      "characters": [
+        { "name": "Sântya", "class": "Sorceress", "ilvl": 1750 },
+        { "name": "Kyshïra", "class": "Deathblade", "ilvl": 1760 },
+        { "name": "Âtynea", "class": "Gunslinger", "ilvl": 1770 },
+        { "name": "Dyashi", "class": "Souleater", "ilvl": 1750 },
+        { "name": "Atyneia", "class": "Gunslinger", "ilvl": 1760 },
+        { "name": "Atynae", "class": "Gunslinger", "ilvl": 1760 }
+      ]
+    },
+    {
+      "id": "player5",
+      "name": "Aoiisha",
+      "color": "cyan",
+      "characters": [
+        { "name": "Mysweetpïano", "class": "Bard", "ilvl": 1750 },
+        { "name": "Cinnämoroll", "class": "Artist", "ilvl": 1770 },
+        { "name": "Mirükü", "class": "Artist", "ilvl": 1750 },
+        { "name": "Cappüccinö", "class": "Artist", "ilvl": 1750 },
+        { "name": "Hanämaruobake", "class": "Aeromancer", "ilvl": 1750 },
+        { "name": "Mökachan", "class": "Aeromancer", "ilvl": 1730 }
+      ]
+    },
+    {
+      "id": "player6",
+      "name": "Matias",
+      "color": "purple",
+      "characters": [
+        { "name": "Eünie", "class": "Wildsoul", "ilvl": 1760 },
+        { "name": "Räslerd", "class": "Gunlancer", "ilvl": 1760 },
+        { "name": "Dëvika", "class": "Deathblade", "ilvl": 1760 },
+        { "name": "Zirëkk", "class": "Artillerist", "ilvl": 1750 },
+        { "name": "Skathrä", "class": "GuardianKnight", "ilvl": 1760 },
+        { "name": "Jezirö", "class": "Breaker", "ilvl": 1780 },
+        { "name": "Käisev", "class": "Machinist", "ilvl": 1750 }
+      ]
+    }
+  ],
+  "raids": [
+    {
+      "id": "catedral",
+      "label": "Catedral",
+      "parties": [
+        {
+          "id": "cat-1",
+          "name": "catedral 1",
+          "members": ["Einlazer", "Kaspitaniah", "Kyocchirö", "Sântya"]
+        },
+        {
+          "id": "cat-2",
+          "name": "catedral 2",
+          "members": ["Süwako", "Jezirö", "Hanämaruobake", "Kyshïra"]
+        },
+        {
+          "id": "cat-3",
+          "name": "catedral 3",
+          "members": ["Utsüho", "Kaspitah", "Eünie", "Muicchirö"]
+        },
+        {
+          "id": "cat-4",
+          "name": "catedral 4",
+          "members": ["Patchôulie", "Âtynea", "Kaspiña", "Zirëkk"]
+        },
+        {
+          "id": "cat-5",
+          "name": "catedra 5",
+          "members": ["Mysweetpïano", "Räslerd", "Icchirö", "Kaspita"]
+        },
+        {
+          "id": "cat-6",
+          "name": "catedral 6",
+          "members": ["Cinnämoroll", "Devourër", "Dëvika", "Dyashi"]
+        },
+        {
+          "id": "cat-7",
+          "name": "catedral 7",
+          "members": ["Mirükü", "Atyneia", "Sheliak", "Skathrä"]
+        },
+        {
+          "id": "cat-8",
+          "name": "catedral 8",
+          "members": ["Cappüccinö", "Atynae", "Kasputin"]
+        },
+        {
+          "id": "cat-banca-1",
+          "name": "banca 1",
+          "members": ["Ginzhen", "Mökachan", "Dayeön"]
+        },
+        {
+          "id": "cat-banca-2",
+          "name": "banca 2",
+          "members": ["Shiröna"]
+        }
+      ]
+    },
+    {
+      "id": "serca",
+      "label": "Serca",
+      "parties": [
+        {
+          "id": "serca-hm-1",
+          "name": "serca hm 1",
+          "members": ["Kyocchirö", "Cappüccinö", "Sântya", "Ginzhen"]
+        },
+        {
+          "id": "serca-hm-2",
+          "name": "serca hm 2",
+          "members": ["Mysweetpïano", "Muicchirö", "Räslerd", "Sheliak"]
+        },
+        {
+          "id": "serca-hm-3",
+          "name": "serca hm 3",
+          "members": ["Utsüho", "Skathrä", "Dyashi", "Mökachan"]
+        },
+        {
+          "id": "serca-hm-4",
+          "name": "serca hm 4",
+          "members": ["Dayeön", "Hanämaruobake", "Kasputin", "Käisev"]
+        },
+        {
+          "id": "serca-hm-5",
+          "name": "serca hm 5",
+          "members": ["Einlazer", "Icchirö", "Zirëkk", "Kyshïra"]
+        },
+        {
+          "id": "serca-hm-6",
+          "name": "serca hm 6",
+          "members": ["Süwako", "Kaspiña", "Dëvika", "Atyneia"]
+        },
+        {
+          "id": "serca-hm-7",
+          "name": "serca hm 7",
+          "members": ["Mirükü", "Eünie", "Shiröna", "Kaspitah"]
+        },
+        {
+          "id": "serca-night-1",
+          "name": "serca night 1",
+          "members": ["Patchôulie", "Kaspitaniah", "Âtynea", "Jezirö"]
+        },
+        {
+          "id": "serca-nigh2",
+          "name": "serca nigh2",
+          "members": ["Cinnämoroll", "Atynae", "Kaspita", "Devourër"]
+        },
+        {
+          "id": "serca-banca",
+          "name": "banca",
+          "members": []
+        }
+      ]
+    }
+  ]
+}
