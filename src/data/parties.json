@@ -102,7 +102,7 @@
         {
           "id": "cat-4",
           "name": "catedral 4",
-          "members": ["Patchôulie", "Âtynea", "Kaspiña", "Zirëkk"]
+          "members": ["Patchôulie", "Âtynea", "Kaspiña", "Käisev"]
         },
         {
           "id": "cat-5",
@@ -122,7 +122,7 @@
         {
           "id": "cat-8",
           "name": "catedral 8",
-          "members": ["Cappüccinö", "Atynae", "Kasputin"]
+          "members": ["Cappüccinö", "Atynae", "Kasputin","Zirëkk"]
         },
         {
           "id": "cat-banca-1",
@@ -153,12 +153,12 @@
         {
           "id": "serca-hm-4",
           "name": "serca hm 4",
-          "members": ["Dayeön", "Hanämaruobake", "Kasputin", "Käisev"]
+          "members": ["Dayeön", "Hanämaruobake", "Kasputin", "Zirëkk"]
         },
         {
           "id": "serca-hm-5",
           "name": "serca hm 5",
-          "members": ["Einlazer", "Icchirö", "Zirëkk", "Kyshïra"]
+          "members": ["Einlazer", "Icchirö", "Käisev", "Kyshïra"]
         },
         {
           "id": "serca-hm-6",
