@@ -1,4 +1,4 @@
-# Party Editor — Lost Ark
+# Raid Tool — Lost Ark
 
 Dashboard web para gestionar parties de Lost Ark. Los datos viven en `parties.json`; solo el progreso de completado persiste en `localStorage`.
 

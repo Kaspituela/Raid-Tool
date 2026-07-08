@@ -127,12 +127,7 @@
         {
           "id": "cat-banca-1",
           "name": "banca 1",
-          "members": ["Ginzhen", "Mökachan", "Dayeön"]
-        },
-        {
-          "id": "cat-banca-2",
-          "name": "banca 2",
-          "members": ["Shiröna"]
+          "members": ["Ginzhen", "Mökachan", "Dayeön", "Shiröna"]
         }
       ]
     },
@@ -181,14 +176,9 @@
           "members": ["Patchôulie", "Kaspitaniah", "Âtynea", "Jezirö"]
         },
         {
-          "id": "serca-nigh2",
-          "name": "serca nigh2",
+          "id": "serca-night-2",
+          "name": "serca night 2",
           "members": ["Cinnämoroll", "Atynae", "Kaspita", "Devourër"]
-        },
-        {
-          "id": "serca-banca",
-          "name": "banca",
-          "members": []
         }
       ]
     }
